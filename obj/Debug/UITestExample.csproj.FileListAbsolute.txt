@@ -1,0 +1,37 @@
+C:\src\2020\p\UITests\UITestExample\bin\Debug\UTProject1.dll
+C:\src\2020\p\UITests\UITestExample\bin\Debug\UTProject1.pdb
+C:\src\2020\p\UITests\UITestExample\bin\Debug\Castle.Core.dll
+C:\src\2020\p\UITests\UITestExample\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\src\2020\p\UITests\UITestExample\bin\Debug\TestStack.White.dll
+C:\src\2020\p\UITests\UITestExample\bin\Debug\TestStack.White.Reporting.dll
+C:\src\2020\p\UITests\UITestExample\bin\Debug\TestStack.White.ScreenObjects.dll
+C:\src\2020\p\UITests\UITestExample\bin\Debug\Castle.Core.xml
+C:\src\2020\p\UITests\UITestExample\bin\Debug\TestStack.White.pdb
+C:\src\2020\p\UITests\UITestExample\bin\Debug\TestStack.White.xml
+C:\src\2020\p\UITests\UITestExample\bin\Debug\TestStack.White.Reporting.pdb
+C:\src\2020\p\UITests\UITestExample\bin\Debug\TestStack.White.ScreenObjects.pdb
+C:\src\2020\p\UITests\UITestExample\obj\Debug\UITestExample.csproj.CoreCompileInputs.cache
+C:\src\2020\p\UITests\UITestExample\obj\Debug\UITestExample.csproj.CopyComplete
+C:\src\2020\p\UITests\UITestExample\obj\Debug\UTProject1.dll
+C:\src\2020\p\UITests\UITestExample\obj\Debug\UTProject1.pdb
+C:\src\2020\p\UITestExample\bin\Debug\UITestExample.dll
+C:\src\2020\p\UITestExample\bin\Debug\UITestExample.pdb
+C:\src\2020\p\UITestExample\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\src\2020\p\UITestExample\bin\Debug\Castle.Core.xml
+C:\src\2020\p\UITestExample\bin\Debug\TestStack.White.pdb
+C:\src\2020\p\UITestExample\bin\Debug\TestStack.White.xml
+C:\src\2020\p\UITestExample\bin\Debug\TestStack.White.Reporting.pdb
+C:\src\2020\p\UITestExample\bin\Debug\TestStack.White.ScreenObjects.pdb
+C:\src\2020\p\UITestExample\obj\Debug\UITestExample.csprojAssemblyReference.cache
+C:\src\2020\p\UITestExample\obj\Debug\UITestExample.csproj.CoreCompileInputs.cache
+C:\src\2020\p\UITestExample\obj\Debug\UITestExample.csproj.CopyComplete
+C:\src\2020\p\UITestExample\obj\Debug\UITestExample.dll
+C:\src\2020\p\UITestExample\obj\Debug\UITestExample.pdb
+C:\Users\Tomek\Desktop\ZALICZENIA\Testowanie oprogramowania\UITestExample\bin\Debug\UITestExample.dll
+C:\Users\Tomek\Desktop\ZALICZENIA\Testowanie oprogramowania\UITestExample\bin\Debug\UITestExample.pdb
+C:\Users\Tomek\Desktop\ZALICZENIA\Testowanie oprogramowania\UITestExample\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tomek\Desktop\ZALICZENIA\Testowanie oprogramowania\UITestExample\obj\Debug\UITestExample.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\ZALICZENIA\Testowanie oprogramowania\UITestExample\obj\Debug\UITestExample.csproj.CopyComplete
+C:\Users\Tomek\Desktop\ZALICZENIA\Testowanie oprogramowania\UITestExample\obj\Debug\UITestExample.dll
+C:\Users\Tomek\Desktop\ZALICZENIA\Testowanie oprogramowania\UITestExample\obj\Debug\UITestExample.pdb
+C:\Users\Tomek\Desktop\ZALICZENIA\Testowanie oprogramowania\UITestExample\obj\Debug\UITestExample.csprojAssemblyReference.cache
